@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #fbcce7;
+  background-color: #E75480;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -46,7 +46,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #fbcce7;
+  color: #E75480;
   padding: 10px 0px 10px 10px;
 }
 
@@ -96,7 +96,7 @@ object-fit: cover;
 }
 
 .recipe {
-  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+box-shadow: 2px 2px 5px 0px rgb(0 0 0 / 25%);
   width: 100%;
 }
 
